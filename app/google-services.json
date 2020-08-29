@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803649107106",
+    "firebase_url": "https://fishtasql.firebaseio.com",
+    "project_id": "fishtasql",
+    "storage_bucket": "fishtasql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803649107106:android:15731be17f5a6fcb1e93fb",
+        "android_client_info": {
+          "package_name": "com.vedhafishfarm.fishtasql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803649107106-2dkeqteg4afh9iasqicqb58tj8avqg5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedhafishfarm.fishtasql",
+            "certificate_hash": "4f51594d583472ab08b0db43eabf20bfd5d7df9c"
+          }
+        },
+        {
+          "client_id": "803649107106-pfih1r1j7so11br6odqdrtgh3f118683.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACejXESuLkPxpOhRNmXYyk7p8wVVfAXQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803649107106-pfih1r1j7so11br6odqdrtgh3f118683.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
